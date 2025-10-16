@@ -713,6 +713,10 @@ int main() {
 				cout << "\nCam on ban da su dung dich vu!\n";
 				break;
 			}
+			else{
+				cout << "\nCam on ban da su dung dich vu!\n";
+				break;
+			}
 		}
 		else {
 			
