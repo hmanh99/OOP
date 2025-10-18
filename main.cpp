@@ -638,7 +638,6 @@ void displayDriverMenu() {
 }
 
 int main() {
-	
 
 	BookingSystem system;
 
